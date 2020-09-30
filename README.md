@@ -31,9 +31,14 @@ Use `git log` to find the commit that broke the program and add that commit ID t
 
 **hint** *Based on the output of `javac Broken.java`, look for a commit that includes a line with a missing semicolon.*
 
+**hint** *broken.sh was fine at commit "8f4d9f6eb7e579a2cd5611c2dd3a296e96ca555f". The change that broke it came sometime after.*
+
 ### Challenge 3
 **Rebase a branch onto master**
 
 There is a branch called "rebaseme". Add it to master without using `git merge`.
+<<<<<<< HEAD
 
 **Bonus:** Use interactive rebase to squash the two commits into one.
+=======
+>>>>>>> 30f30b6 (added hint for challenge 2)
