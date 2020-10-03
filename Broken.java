@@ -20,6 +20,10 @@ class Broken
 =======
 		
 		System.out.println("Welcome to Challenge 2, " + name + "!")
+<<<<<<< HEAD
 >>>>>>> 72dc61d (added welcome message to broken.java)
+=======
+		System.out.println("Good luck!");
+>>>>>>> d5b7971 (added good luck message to broken.java)
 	}
 }
