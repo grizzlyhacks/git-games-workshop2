@@ -1,12 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.Scanner;
 
 =======
 >>>>>>> 7007cc8 (replaced broken.sh with Broken.java)
+=======
+import java.util.Scanner;
+
+>>>>>>> 4924d9d (added starting line to broken.java)
 class Broken
 {
 	public static void main(String[] args)
 	{
+<<<<<<< HEAD
 <<<<<<< HEAD
 		Scanner stdin = new Scanner(System.in);
 		
@@ -18,5 +24,8 @@ class Broken
 =======
 		
 >>>>>>> 7007cc8 (replaced broken.sh with Broken.java)
+=======
+		System.out.println("Hello World!");
+>>>>>>> 4924d9d (added starting line to broken.java)
 	}
 }
