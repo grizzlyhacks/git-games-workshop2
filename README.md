@@ -16,9 +16,9 @@ Simply merge the branch "mergeme" with master.
 ### Challenge 2
 **Find the commit that broke master**
 
-Inside the master branch, you'll find a script called *broken.sh*. One of the commits broke this script. You'll need to find the commit ID! Add that commit ID to a new file called "broken.txt".
+Inside the master branch, you'll find a java file called *broken.java*. One of the commits broke this file. You'll need to find the commit ID! Add that commit ID to a new file called "broken.txt".
 
-**hint** *broken.sh was fine at commit "8f4d9f6eb7e579a2cd5611c2dd3a296e96ca555f". The change that broke it came sometime after.*
+**hint** *broken.sh was fine at commit "c6112f974d4519437f798cc088c07834ef4d1bd4". The change that broke it came sometime after.*
 
 ### Challenge 3
 **Rebase a branch onto master**
