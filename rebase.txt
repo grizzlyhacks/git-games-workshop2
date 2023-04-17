@@ -1,2 +1,1 @@
-
 rebase commit 1 and commit 2
